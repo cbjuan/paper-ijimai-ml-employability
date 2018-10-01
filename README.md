@@ -13,5 +13,6 @@ Jupyter notebooks developed to support the research presented in the paper "Prop
       title={juan-cb/slr-softwareArchitectures-HCI-HMI: First version of the paper}, 
       DOI={10.5281/zenodo.1101169}, 
       abstractNote={Resources for the paper "Software architectures supporting HCI/HMI processes: A systematic review and mapping of the literature"}, 
-      publisher={Zenodo}}
+      publisher={Zenodo}
+      }
 ```
